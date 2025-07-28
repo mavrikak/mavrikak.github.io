@@ -9,36 +9,41 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Parmenion Mavrikakis / Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Parmenion Mavrikakis"
+description              : &description "PhD student at EPFL working in computational electromagnetics, nanophotonics, and metasurfaces."
+url                      : https://mavrikak.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mavrikak/mavrikak.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Parmenion_Mavrikakis.jpg"
+  name             : "Parmenion Mavrikakis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Electrical engineering PhD student in Nanophotonics and Metrology Laboratory (NAM).
+                      My research focuses on the development of numerical techniques for the solution of 
+                      electromagnetic scattering problems on plasmonic, dielectric and hybrid systems. My
+                      interests are in the areas of computational electromagnetics, metasurfaces, 
+                      microwaves, photonics and plasmonics."
+  location         : "Lausanne, Switzerland"
+  employer         : "École Polytechnique Fédérale de Lausanne (EPFL)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "parmenion.mavrikakis@epfl.ch" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=77JfI8AAAAAJ&hl=el&oi=ao&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7722-1878"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mavrikak"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "parmenion-mavrikakis/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -138,14 +143,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 :  "Parmenion_Mavrikakis.jpg" # Social media default site image
+og_description           :  "PhD student in nanophotonics and computational electromagnetics at EPFL." # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://scholar.google.com/citations?user=77JfI8AAAAAJ"
+    - "https://orcid.org/0000-0002-7722-1878"
+    - "https://www.linkedin.com/in/parmenion-mavrikakis"
+    - "https://github.com/mavrikak"
 
 
 # Analytics
