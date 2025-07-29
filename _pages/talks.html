@@ -12,8 +12,8 @@ author_profile: true
 {% endif %}
 
 <!-- New style rendering if talk categories are defined -->
-{% if site.talk_category %}
-  {% for category in site.talk_category %}
+{% if site.presentation_category %}
+  {% for category in site.presentation_category %}
     {% assign title_shown = false %}
     {% for talk in site.talks reversed %}
       {% if talk.category != category[0] %}
