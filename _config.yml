@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Parmenion Mavrikakis Personal Website"
+title                    : "Parmenion Mavrikakis Website"
 title_separator          : "-"
 name                     : &name "Parmenion Mavrikakis"
 description              : &description "PhD student at EPFL working in computational electromagnetics, nanophotonics, and metasurfaces."
@@ -26,11 +26,7 @@ author:
   avatar           : "Parmenion_Mavrikakis.jpg"
   name             : "Parmenion Mavrikakis"
   pronouns         : # example: "she/her"  
-  bio              : "Electrical engineering PhD student in Nanophotonics and Metrology Laboratory (NAM).
-                      My research focuses on the development of numerical techniques for the solution of 
-                      electromagnetic scattering problems on plasmonic, dielectric and hybrid systems. My
-                      interests are in the areas of computational electromagnetics, metasurfaces, 
-                      microwaves, photonics and plasmonics."
+  bio              : "PhD student at EPFL."
   location         : "Lausanne, Switzerland"
   employer         : "École Polytechnique Fédérale de Lausanne (EPFL)"
   uri              : # URL

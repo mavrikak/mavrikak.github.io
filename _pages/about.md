@@ -15,4 +15,4 @@ In my third year of undergraduate studies, I joined the AcubeSAT project under t
 
 During the final year of my studies, I conducted my diploma thesis at the Radar and Microwaves Laboratory, supervised by Prof. Traianos Yioultsis. My research focused on the computational analysis of metasurfaces using Impedance Boundary Conditions (IBCs) within the Finite Element Method (FEM) framework. This involved the implementation of 2D/3D elements, absorbing boundary conditions (ABCs), perfectly matched layers (PMLs), and the total-field to scattered-field (TF/SF) formulation.
 
-After completing my mandatory military service in the Greek Army in 2023, I joined NAM at EPFL, where I currently conduct research in surface integral equations, metasurfaces, photonics, and plasmonics.
+After completing my mandatory military service in the Greek Army in 2023, I joined NAM at EPFL, where I currently conduct research in surface integral equations, metasurfaces, photonics, and plasmonics. My research focuses on the development of numerical techniques for the solution of electromagnetic scattering problems on plasmonic, dielectric and hybrid systems.
