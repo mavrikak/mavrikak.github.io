@@ -26,11 +26,11 @@
       <p class="archive__item-excerpt" itemprop="description">{{ include.talk.excerpt | markdownify }}</p>
     {% endif %}
 
-    {% if include.talk.slidesurl or include.talk.talkurl %}
+    {% if include.talk.slidesurl or include.talk.oralurl %}
       <p>
         {% if include.talk.slidesurl %}<a href="{{ include.talk.slidesurl }}">Slides</a>{% endif %}
-        {% if include.talk.slidesurl and include.talk.talkurl %} | {% endif %}
-        {% if include.talk.talkurl %}<a href="{{ include.talk.talkurl }}">Abstract</a>{% endif %}
+        {% if include.talk.slidesurl and include.talk.oralurl %} | {% endif %}
+        {% if include.talk.oralurl %}<a href="{{ include.talk.oralurl }}">Abstract</a>{% endif %}
       </p>
     {% endif %}
 

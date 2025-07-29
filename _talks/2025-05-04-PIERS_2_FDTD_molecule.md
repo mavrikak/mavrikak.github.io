@@ -8,5 +8,5 @@ excerpt: 'Authors: P. Mavrikakis, S. Athanasiou, and O. J. F. Martin'
 venue: "PhotonIcs & Electromagnetics Research Symposium (PIERS)"
 date: 2025-05-04
 location: "Abu Dhabi, United Arab Emirates"
-oralurl: 'http://mavrikak.github.io/files/PIERS_Abu_Dhabi_2025_FDTD_Session.pdf'
+oralurl: 'https://mavrikak.github.io/files/PIERS_Abu_Dhabi_2025_FDTD_Session.pdf'
 ---

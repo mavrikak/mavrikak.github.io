@@ -8,5 +8,5 @@ excerpt: 'Authors: P. Mavrikakis, N. Brosseau-Habert, M. Devel, and O. J. F. Mar
 venue: "PhotonIcs & Electromagnetics Research Symposium (PIERS)"
 date: 2025-05-04
 location: "Abu Dhabi, United Arab Emirates"
-oralurl: 'http://mavrikak.github.io/files/PIERS_Abu_Dhabi_2025_SIE_Session.pdf'
+oralurl: 'https://mavrikak.github.io/files/PIERS_Abu_Dhabi_2025_SIE_Session.pdf'
 ---
