@@ -80,12 +80,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  masterthesis:
-    title: 'Master Thesis'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  masterthesis:
+    title: 'Master Thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
