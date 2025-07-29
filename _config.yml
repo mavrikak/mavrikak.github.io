@@ -82,8 +82,8 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
+  #conferences:
+    #title: 'Conference Papers'
   masterthesis:
     title: 'Master Thesis'
 
