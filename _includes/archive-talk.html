@@ -13,10 +13,10 @@
       {% endif %}
     </h2>
 
-    {% if include.talk.event or include.talk.location or include.talk.date %}
+    {% if include.talk.venue or include.talk.location or include.talk.date %}
       <p class="page__date">
-        <strong><i class="fa fa-fw fa-microphone" aria-hidden="true"></i> Event:</strong>
-        {% if include.talk.event %}<i>{{ include.talk.event }}</i>{% endif %}
+        <strong>Venue:</strong>
+        {% if include.talk.venue %}<i>{{ include.talk.venue }}</i>{% endif %}
         {% if include.talk.location %}, {{ include.talk.location }}{% endif %}
         {% if include.talk.date %} — <time datetime="{{ include.talk.date | date_to_xmlschema }}">{{ include.talk.date | date: "%B %Y" }}</time>{% endif %}
       </p>
