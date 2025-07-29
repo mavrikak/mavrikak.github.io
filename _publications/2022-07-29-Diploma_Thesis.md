@@ -2,7 +2,7 @@
 title: "Υπολογιστική ανάλυση μεταεπιφάνειας με τη μέθοδο πεπερασμένων στοιχείων"
 collection: publications
 category: masterthesis
-permalink: /publication/2022-Diploma_Thesis
+permalink: /publication/2022-07-29-Diploma_Thesis
 excerpt: 'Written in Greek.'
 date: 2022-07-29
 venue: 'Aristotle University of Thessaloniki - Library'
