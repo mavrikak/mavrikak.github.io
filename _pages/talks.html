@@ -23,11 +23,11 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-talk.html talk=talk %}
+      {% include archive-talk.html talk=talk %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for talk in site.talks reversed %}
-    {% include archive-single-talk.html talk=talk %}
+    {% include archive-talk.html talk=talk %}
   {% endfor %}
 {% endif %}

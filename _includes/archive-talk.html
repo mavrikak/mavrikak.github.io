@@ -1,0 +1,38 @@
+{% include base_path %}
+
+{% assign title = include.talk.title | markdownify | remove: "<p>" | remove: "</p>" %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/Event">
+
+    <h2 class="archive__item-title" itemprop="name">
+      {% if include.talk.link %}
+        <a href="{{ include.talk.link }}">{{ title }}</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </h2>
+
+    {% if include.talk.event or include.talk.location or include.talk.date %}
+      <p class="page__date">
+        <strong><i class="fa fa-fw fa-microphone" aria-hidden="true"></i> Event:</strong>
+        {% if include.talk.event %}<i>{{ include.talk.event }}</i>{% endif %}
+        {% if include.talk.location %}, {{ include.talk.location }}{% endif %}
+        {% if include.talk.date %} — <time datetime="{{ include.talk.date | date_to_xmlschema }}">{{ include.talk.date | date: "%B %Y" }}</time>{% endif %}
+      </p>
+    {% endif %}
+
+    {% if include.talk.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ include.talk.excerpt | markdownify }}</p>
+    {% endif %}
+
+    {% if include.talk.slidesurl or include.talk.paperurl %}
+      <p>
+        {% if include.talk.slidesurl %}<a href="{{ include.talk.slidesurl }}">Slides</a>{% endif %}
+        {% if include.talk.slidesurl and include.talk.paperurl %} | {% endif %}
+        {% if include.talk.paperurl %}<a href="{{ include.talk.paperurl }}">Paper</a>{% endif %}
+      </p>
+    {% endif %}
+
+  </article>
+</div>
