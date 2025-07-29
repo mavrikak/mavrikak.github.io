@@ -26,7 +26,7 @@ author:
   avatar           : "Parmenion_Mavrikakis.jpg"
   name             : "Parmenion Mavrikakis"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at EPFL."
+  bio              : "PhD student at EPFL"
   location         : "Lausanne, Switzerland"
   employer         : "École Polytechnique Fédérale de Lausanne (EPFL)"
   uri              : # URL
@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-7722-1878"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Parmenion-Mavrikakis"
   scopus           : # URL
 
   # Repositories and software development
