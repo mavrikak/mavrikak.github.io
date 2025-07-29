@@ -26,11 +26,19 @@
       <p class="archive__item-excerpt" itemprop="description">{{ include.talk.excerpt | markdownify }}</p>
     {% endif %}
 
-    {% if include.talk.slidesurl or include.talk.paperurl %}
+    {% if include.talk.slidesurl or include.talk.talkurl %}
       <p>
         {% if include.talk.slidesurl %}<a href="{{ include.talk.slidesurl }}">Slides</a>{% endif %}
-        {% if include.talk.slidesurl and include.talk.paperurl %} | {% endif %}
-        {% if include.talk.paperurl %}<a href="{{ include.talk.paperurl }}">Paper</a>{% endif %}
+        {% if include.talk.slidesurl and include.talk.talkurl %} | {% endif %}
+        {% if include.talk.talkurl %}<a href="{{ include.talk.talkurl }}">Paper</a>{% endif %}
+      </p>
+    {% endif %}
+
+    {% if include.talk.slidesurl or include.talk.posterurl %}
+      <p>
+        {% if include.talk.slidesurl %}<a href="{{ include.talk.slidesurl }}">Slides</a>{% endif %}
+        {% if include.talk.slidesurl and include.talk.posterurl %} | {% endif %}
+        {% if include.talk.posterurl %}<a href="{{ include.talk.posterurl }}">Paper</a>{% endif %}
       </p>
     {% endif %}
 
