@@ -2,9 +2,9 @@
 title: "Numerical Analysis"
 collection: teaching
 type: "Undergraduate course teaching assistant"
-permalink: /teaching/2023-2024-spring-teaching-numerical-analysis
+permalink: /teaching/2024-spring-numerical-analysis
 venue: "École Polytechnique Fédérale de Lausanne, Electrical and Electronics Engineering"
-date: 2014-01-01
+date: 2024-02-28
 location: "Lausanne, Switzerland"
 ---
 
@@ -12,8 +12,6 @@ The students learned key numerical techniques for solving standard mathematical 
 
 Contents
 ======
-The topics covered include:
-
 - Properties and issues with numerical computation
 - Finding roots and fixed points
 - Polynomial interpolation
