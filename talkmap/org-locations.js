@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Modeling Reconfigurable Intelligent Surfaces with the Finite Element Method<br />PhotonIcs & Electromagnetics Research Symposium (PIERS); Abu Dhabi, United Arab Emirates",
+    24.4538352,
+    54.3774014
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Modeling Light Scattering in Layered Media with the Surface Integral Equation Method<br />International Applied Computational Electromagnetics Society (ACES) Symposium; Orlando, United States of America",
+    28.5421109,
+    -81.3790304
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Self-Consistent Modeling of Coupled Maxwell-Rate Equations with the Finite-Difference Time-Domain Method<br />31st International Workshop on Optical Wave & Waveguide Theory and Numerical Modelling (OWTNM); Nottingham, United Kingdom",
+    52.9534193,
+    -1.1496461
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Modeling of plasmonic, dielectric and hybrid nanostructures with surface integral equations<br />30th International Workshop on Optical Wave & Waveguide Theory and Numerical Modelling (OWTNM); Kiel, Germany",
+    54.3227085,
+    10.135555
+  ],
+  [
+    "Modeling Complex Atomic Structures with the Surface Integral Equation Method<br />PhotonIcs & Electromagnetics Research Symposium (PIERS); Abu Dhabi, United Arab Emirates",
+    24.4538352,
+    54.3774014
+  ],
+  [
+    "Modeling of metasurfaces<br />3rd Colloquium on the Physics and Applications of Metasurfaces; Z\u00fcrich, Switzerland",
+    47.3744489,
+    8.5410422
+  ],
+  [
+    "Self-consistent Modeling of Coupled Maxwell-rate Equations with the Finite-Difference Time-Domain Method<br />PhotonIcs & Electromagnetics Research Symposium (PIERS); Abu Dhabi, United Arab Emirates",
+    24.4538352,
+    54.3774014
   ]
 ];
