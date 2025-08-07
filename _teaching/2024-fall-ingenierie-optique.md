@@ -8,8 +8,6 @@ date: 2024-09-01
 location: "Lausanne, Switzerland"
 ---
 
-# Modern Optics Course
-
 This course presented various aspects of modern optics and emphasized both rigorous foundations and practical applications. It included a theoretical component with lectures as well as exercises.
 
 Contents
