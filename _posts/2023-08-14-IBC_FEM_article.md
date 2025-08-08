@@ -14,3 +14,6 @@ I am pleased to announce that the final version of our paper “A systematic app
 - Efficient finite element method (FEM) analysis for modeling IRS as an equivalent impedance sheet of zero-thickness.
 
 I would like to thank all the co-authors, namely Konstantinos Ntokos, Athanasios Iossifides (Iosifidis) and Traianos V. Yioultsis.
+
+You can find our article <a href="https://www.sciencedirect.com/science/article/abs/pii/S1434841123002546">here</a>!
+
