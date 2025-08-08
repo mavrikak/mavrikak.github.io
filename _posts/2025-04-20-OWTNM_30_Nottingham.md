@@ -17,3 +17,9 @@ A huge thank you to Prof. Sendy Phang and Prof. Ana Vukovic for hosting such a w
 Looking forward to reconnecting with the community at next year’s edition that will be organized by our lab at EPFL!
 
 A couple of snapshots from my talk and the participants photo below.
+
+<p float="left">
+  <img src="/images/OWTNM_30_Nottingham_1.jpg" width="33%" />
+  <img src="/images/OWTNM_30_Nottingham_2.jpg" width="33%" />
+  <img src="/images/OWTNM_30_Nottingham_3.jpg" width="33%" />
+</p>
