@@ -6,7 +6,9 @@ tags:
   - research articles
 ---
 
-I am pleased to announce that the final version of our paper “A systematic approach for reconfigurable reflecting metasurface synthesis: From periodic analysis to far-field scattering” is now available online in “AEU - International Journal of Electronics and Communications”. In this paper you can find:
+I am pleased to announce that the final version of our paper “A systematic approach for reconfigurable reflecting metasurface synthesis: From periodic analysis to far-field scattering” is now available online in “AEU - International Journal of Electronics and Communications”.
+
+In this paper you can find:
 - A systematic and straightforward approach to synthesize an intelligent reflecting surface (IRS).
 - Novel reconfigurable unit cell structure achieving a wide range of phase shifts, low losses and polarization insensitivity.
 - Fast analytical method, based on Floquet mode analysis for the design of periodic IRS.
