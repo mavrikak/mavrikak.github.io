@@ -1,7 +1,7 @@
 ---
-title: '30th OWTNM oral presentation'
+title: '31th OWTNM oral presentation'
 date: 2025-04-20
-permalink: /posts/2025-04-20-OWTNM_30_Nottingham
+permalink: /posts/2025-04-20-OWTNM_31_Nottingham
 tags:
   - conference talk
 ---
@@ -19,7 +19,7 @@ Looking forward to reconnecting with the community at next year’s edition that
 A couple of snapshots from my talk and the participants photo below.
 
 <p float="left">
-  <img src="/images/OWTNM_30_Nottingham_1.jpg" width="33%" />
-  <img src="/images/OWTNM_30_Nottingham_2.jpg" width="33%" />
-  <img src="/images/OWTNM_30_Nottingham_3.jpg" width="33%" />
+  <img src="/images/OWTNM_31_Nottingham_1.jpg" width="33%" />
+  <img src="/images/OWTNM_31_Nottingham_2.jpg" width="33%" />
+  <img src="/images/OWTNM_31_Nottingham_3.jpg" width="33%" />
 </p>
