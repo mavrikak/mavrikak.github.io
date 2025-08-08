@@ -43,6 +43,7 @@ Research & Volunteering experience
 
 Honors & Awards
 ======
+* Award, Technical Chamber of Greece (TCG), for being one of the top graduates of Greek engineering schools during the period 2017--2022, 2024
 * Graduation Ceremony Religious Oath Delivery, for achieving the 2nd highest grade in Class, 2022
 * EBEC Team Design, 2nd place in the national finals of the European BEST Engineering Competition, 2019
 * Scholarship “The Great Moment for Education”, Eurobank, for achieving top marks in the Nationwide University Entrance Examination, 2016
