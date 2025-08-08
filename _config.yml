@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Parmenion Mavrikakis Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Parmenion Mavrikakis"
 description              : &description "PhD student at EPFL working in computational electromagnetics, nanophotonics, and metasurfaces."
