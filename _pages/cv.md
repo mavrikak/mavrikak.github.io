@@ -12,24 +12,27 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne (EPFL), 2027 (expected)
-* Integrated Master degree in Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTh), 2022
+* Integrated Master degree in Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTh), 09/2016 -- 07/2022
+  * Grade:9.48/10 “Distinction”, “2nd in Class of 2022 (top 1% in the last two Classes)”
+  * Specialization in Communications
+  * Relevant coursework: Microwave Engineering, Computational Electromagnetics, Scattering Theory, Antennas & Propagation, High Frequency Devices, Acoustics, Optical Communications, Non-destructive Testing Methods
+  * Thesis: "Computational analysis of metasurface with the Finite Element Method" (Grade: 10/10)
 
-Work experience
+Research & Volunteering experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Undergraduate Research Assistant, Radar and Microwaves Lab, AUTh, 07/2021 -- 07/2022
+  * Suggested a technique to introduce Impedance Boundary Conditions (IBCs) in the Finite Element Method (FEM)
+  * Developed the code for both 2D & 3D FEM simulation tools for metasurfaces in MATLAB
+  * Both tools contain PML, TF/SF transformation and the extraction of metasurfaces’ far-field patterns
+  * Used COMSOL Multiphysics to implement a new unit cell with efficient reconfigurability functionalities
+  * Thesis: “Computational analysis of metasurface with the Finite Element Method”
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Communications Engineer, Aristotle Space & Aeronautics Team (ASAT), Greece, 03/2019 -- 09/2020
+  * Undertook the COMMS subsystem of the AcubeSAT project
+  * Designed the antenna for the AcubeSAT’s UHF Radio Link
+  * Participated in the design of the Ground Station and the Link Budget Analysis
+  * Contributed to the project’s admission to “Fly Your Satellite! 3” educational program, organized by the European Space Agency (ESA)
+  * Assisted in the founding of SpaceDot, the team that now runs the AcubeSAT project
 
 Honors & Awards
 ======
@@ -79,3 +82,8 @@ Service and leadership
 * Communications Arm Private with specialization in Communications & Cryptography, honored with the Fighter Badge and the Lance Corporal Rank, 2022 – 2023
 * Undergraduate Students Community, Vice President of the administrative council, 2019 – 2022
 * Undergraduate Students Community, Tactical Member of the administrative council, 2018 – 2019
+
+Languages
+======
+* English (fluent)
+* Greek (native)
