@@ -11,12 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne (EPFL), 2027 (expected)
+* Ph.D in Electrical Engineering, École Polytechnique Fédérale de Lausanne (EPFL), 09/2023 -- present
 * Integrated Master degree in Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTh), 09/2016 -- 07/2022
-  * Grade:9.48/10 “Distinction”, “2nd in Class of 2022 (top 1% in the last two Classes)”
+  * Grade: 9.48/10 “Distinction”, “2nd in Class of 2022 (top 1% in the last two Classes)”
   * Specialization in Communications
   * Relevant coursework: Microwave Engineering, Computational Electromagnetics, Scattering Theory, Antennas & Propagation, High Frequency Devices, Acoustics, Optical Communications, Non-destructive Testing Methods
   * Thesis: "Computational analysis of metasurface with the Finite Element Method" (Grade: 10/10)
+
+Work experience
+======
+* Doctoral Assistant, Nanophotonics and Metrology Laboratory, EPFL, 09/2023 -- present
+  * Conducting research on the surface integral equation (SIE) method for electromagnetic scattering problems in optics and nanophotonics.
+  * Developing a C++ code for layered media Green’s functions and light scattering computations with SIE.
+  * Implementing numerical models for light--matter interactions at the nanoscale, including plasmonic and molecular systems.
 
 Research & Volunteering experience
 ======
@@ -43,21 +50,8 @@ Honors & Awards
 
 Skills
 ======
-* Software Tools: 
-  * COMSOL Multiphysics,
-  * CST,
-  * 4nec2,
-  * AutoCAD,
-  * PSpice,
-  * SPSS,
-  * Wolfram Mathematica
-* Programming:
-  * C++,
-  * MATLAB,
-  * C,
-  * Python,
-  * Java,
-  * Assembly.
+* Software Tools: COMSOL Multiphysics, CST, 4nec2, AutoCAD, PSpice, SPSS, Wolfram Mathematica.
+* Programming: C++, MATLAB, C, Python, Java, Assembly.
 
 Publications
 ======
@@ -79,9 +73,9 @@ Teaching
   
 Service and leadership
 ======
-* Communications Arm Private with specialization in Communications & Cryptography, honored with the Fighter Badge and the Lance Corporal Rank, 2022 – 2023
-* Undergraduate Students Community, Vice President of the administrative council, 2019 – 2022
-* Undergraduate Students Community, Tactical Member of the administrative council, 2018 – 2019
+* Communications Arm Private with specialization in Communications & Cryptography, honored with the Fighter Badge and the Lance Corporal Rank, 2022 -- 2023
+* Undergraduate Students Community, Vice President of the administrative council, 2019 -- 2022
+* Undergraduate Students Community, Tactical Member of the administrative council, 2018 -- 2019
 
 Languages
 ======
