@@ -16,7 +16,7 @@ tags:
 
 Two months ago, I had the pleasure of participating in the ACES - Applied Computational Electromagnetics Society Symposium. It was a truly rewarding experience to engage with the global computational electromagnetics community, share ideas, meet experts, and gain fresh perspectives on emerging techniques and challenges in the field.
 
-I was honored to present our work with Prof. Olivier J.F. Martin, from the Nanophotonics and Metrology Laboratory (NAM) at EPFL. My talk, titled: "Modeling Light Scattering in Layered Media with the Surface Integral Equation Method", presented a versatile framework for simulating electromagnetic scattering interactions using SIE, aiming for more accurate and efficient approaches in nanophotonics.
+I was honored to present our work with Prof. Olivier J. F. Martin, from the Nanophotonics and Metrology Laboratory (NAM) at EPFL. My talk, titled: "Modeling Light Scattering in Layered Media with the Surface Integral Equation Method", presented a versatile framework for simulating electromagnetic scattering interactions using SIE, aiming for more accurate and efficient approaches in nanophotonics.
 
 A heartfelt thank you to the organizing committee for putting together such a well-structured and engaging event. Special thanks to everyone who stopped by our session or shared insights during the coffee breaks—your feedback and questions were genuinely appreciated.
 
