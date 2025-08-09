@@ -1,7 +1,7 @@
 ---
-title: 'PhotonIcs and Electromagnetics Research Symposium in Abu Dhabi'
-date: 2025-05-15
-permalink: /posts/2025-05-15-PIERS_Abu_Dhabi
+title: '2025 International Applied Computational Electromagnetics Society Symposium'
+date: 2025-05-30
+permalink: /posts/2025-05-30-ACES_Orlando
 tags:
   - conference
   - oral presentations
