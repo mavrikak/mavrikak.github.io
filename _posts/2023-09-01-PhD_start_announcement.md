@@ -3,7 +3,9 @@ title: 'Starting my PhD at EPFL!'
 date: 2023-09-01
 permalink: /posts/2023-09-01-PhD_start_announcement
 tags:
-  - job
+  - PhD
+  - Nanophotonics and Metrology Laboratory
+  - EPFL
 ---
 
 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at EPFL!

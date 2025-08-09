@@ -1,9 +1,14 @@
 ---
-title: 'New publication in JOSA A!'
+title: 'New publication in Journal of the Optical Society of America A!'
 date: 2025-03-14
 permalink: /posts/2025-03-14-SIE_Hybrid_mesh
 tags:
-  - research articles
+  - research article
+  - Surface Integral Equation Method
+  - hybrid discretization scheme
+  - plasmonic nanostructures
+  - hybrid nanostructures
+  - JOSA A
 ---
 
 I’m delighted to share my latest publication, "Hybrid Meshes for the Modeling of Optical Nanostructures with the Surface Integral Equation Method," which has recently been released! This work explores the surface integral equation (SIE) method, providing fresh insights into hybrid discretization schemes for modeling plasmonic and hybrid nanostructures.

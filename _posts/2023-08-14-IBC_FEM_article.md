@@ -1,9 +1,21 @@
 ---
-title: 'New article in AEU'
+title: 'New article in International Journal of Electronics and Communications'
 date: 2023-08-14
 permalink: /posts/2023-10-14-IBC_FEM_article
 tags:
-  - research articles
+  - research article
+  - FEM
+  - computational
+  - electromagnetics
+  - modeling
+  - metasurface
+  - IRS
+  - synthesis
+  - scattering
+  - optimization
+  - IBC
+  - communications
+  - AEU
 ---
 
 I am pleased to announce that the final version of our paper “A systematic approach for reconfigurable reflecting metasurface synthesis: From periodic analysis to far-field scattering” is now available online in “AEU - International Journal of Electronics and Communications”.
