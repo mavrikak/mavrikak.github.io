@@ -1,5 +1,5 @@
 ---
-title: "List of journals"
+title: "List of peer reviews"
 collection: publications
 category: reviews
 permalink: /publication/Peer reviews
