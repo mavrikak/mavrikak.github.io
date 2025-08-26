@@ -86,6 +86,8 @@ publication_category:
     #title: 'Conference Papers'
   masterthesis:
     title: 'Master Thesis'
+  reviews:
+    title: 'Peer Reviews'
 
 # Presentation Category - The following the list of presentation categories and their headings
 presentation_category:
