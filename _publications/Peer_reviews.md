@@ -2,9 +2,9 @@
 title: "List of peer reviews"
 collection: publications
 category: reviews
-permalink: /publication/Peer reviews
+permalink: /publication/Peer_reviews
 #excerpt: 'Authors: P. S. Mavrikakis, and O. J. F. Martin'
-date: 2025-12
+date: 2025-08-25
 venue: 'various journals'
 #paperurl: 'https://journals.riverpublishers.com/index.php/ACES/article/view/27091'
 #bibtexurl: 'https://mavrikak.github.io/files/2025-04-30-SIE_review_ACES.bib'
