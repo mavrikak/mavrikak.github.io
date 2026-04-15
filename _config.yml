@@ -41,13 +41,13 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Parmenion-Mavrikakis"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58318462500"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"mavrikak"
+  github           : "mavrikak"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
