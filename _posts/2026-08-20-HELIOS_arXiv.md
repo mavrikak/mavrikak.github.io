@@ -1,6 +1,6 @@
 ---
 title: 'New publication in arXiv!'
-date: 2025-02-26
+date: 2026-08-20
 permalink: /posts/2026-08-20-HELIOS_arXiv
 tags:
   - research article
