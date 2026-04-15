@@ -2,9 +2,9 @@
 title: "Optical engineering"
 collection: teaching
 type: "Undergraduate course teaching assistant"
-permalink: /teaching/2024-fall-ingenierie-optique
+permalink: /teaching/2025-fall-ingenierie-optique
 venue: "École Polytechnique Fédérale de Lausanne, Electrical and Electronics Engineering"
-date: 2024-09-01
+date: 2025-09-01
 location: "Lausanne, Switzerland"
 ---
 
