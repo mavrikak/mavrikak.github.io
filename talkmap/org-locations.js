@@ -20,6 +20,11 @@ var addressPoints = [
     -81.379045
   ],
   [
+    "HELIOS: Light scattering in homogeneous, periodic, and stratified systems with a surface integral approach<br />Bremen Workshop on Light Scattering 2026; Bremen, Germany",
+    53.0758196,
+    8.8071646
+  ],
+  [
     "Modeling Reconfigurable Intelligent Surfaces with the Finite Element Method<br />PhotonIcs & Electromagnetics Research Symposium (PIERS); Abu Dhabi, United Arab Emirates",
     24.4538352,
     54.3774014
